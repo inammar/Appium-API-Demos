@@ -6,7 +6,7 @@ Scope - functional testing.
 
 Test Environment
 
-• Selenium WebDriver and Appium for web UI automation.
+• Selenium WebDriver and Appium for app UI automation.
 
 • TestNG for test execution and report generation.
 
@@ -18,9 +18,9 @@ Test Scenarios
 
 Functional Tests
 
-Successful login: enter valid e-mail address and password, verify successful login.
+App function: tap on App.
 
-Unsuccessful login: enter invalid e-mail address and password, verify error message.
+Views function: tap on Views, tap on Buttons and change OFF to ON.
 
 Test reports
 
