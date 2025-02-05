@@ -16,11 +16,11 @@
 
 4. Test Scenarios
 
-4.1. Functional Tests:
+   4.1. Functional Tests:
 
-- App function: tap on App.
+     •  App function: tap on App.
 
-- Views function: tap on Views, tap on Buttons and change OFF to ON.
+     •  Views function: tap on Views, tap on Buttons and change OFF to ON.
 
 5. Test reports
 
