@@ -6,15 +6,17 @@
 
 3. Test Environment:
 
-   • Selenium WebDriver and Appium for app UI automation.
+     • Selenium WebDriver and Appium for app UI automation.
 
-   • TestNG for test execution and report generation.
+     • TestNG for test execution and report generation.
 
-   • Java as the programming language.
+     • Java as the programming language.
 
-   • Appium Inspector for locating the elements. 
+     • Appium Inspector for locating the elements.
 
-4. Test Scenarios
+     • API-Demos for functional tests (can be installed from here https://github.com/appium/appium/blob/master/packages/appium/sample-code/apps/ApiDemos-debug.apk).
+
+5. Test Scenarios
 
    4.1. Functional Tests:
 
@@ -22,6 +24,6 @@
 
      •  Views function: tap on Views, tap on Buttons and change OFF to ON.
 
-5. Test reports
+6. Test reports
 
 Reports of the results are provided in a separate file.
