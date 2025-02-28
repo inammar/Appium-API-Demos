@@ -1,5 +1,8 @@
 ### Test Plan
 
+![image](https://github.com/user-attachments/assets/fda8a62b-ebb6-4e34-af2b-e9540c384cbb)
+
+
 1. Project goal - to test App and Views functionality of API Demos.
 
 2. Scope - functional testing.
