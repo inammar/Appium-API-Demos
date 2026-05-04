@@ -1,0 +1,19 @@
+name: Simple CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Show repository structure
+        run: ls -R
+
+      - name: Confirm workflow success
+        run: echo "Appium API demos repo is ready"
